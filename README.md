@@ -1,4 +1,4 @@
-```markdown
+
 # Private Equity Tokenization: A DeFi Protocol for Confidential Trading
 
 This project is a DeFi protocol that leverages **Zama's Fully Homomorphic Encryption (FHE) technology** to enable the tokenization and trading of private equity securely and privately. Designed specifically for the private equity market, our platform transforms traditional investment practices into a compliant, confidential, and efficient digital experience. 
